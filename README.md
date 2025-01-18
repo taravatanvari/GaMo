@@ -1,7 +1,7 @@
 
 # GaMo: Gaze and Motion Dataset for Enhanced 3D Pose Estimation
 
-<img src="png/overview.png" alt="PoseFusionNet Overview" width="600" height="400">
+<img src="png/overview.png" alt="PoseFusionNet Overview" width="600">
 *Figure: An overview of the PoseFusionNet model architecture.*
 
 ## Repository Status
