@@ -62,6 +62,15 @@ The GaMo dataset contains:
 
 ---
 
-## Citation
+## 📖 Citation
 If you find this useful, please cite our paper :)
 
+```bibtex
+@inproceedings{inproceedings,
+  author = {Anvari, Taravat and Lappe, Markus and Lussanet, Marc},
+  year = {2025},
+  month = {03},
+  pages = {76-83},
+  title = {Where Does Gaze Lead? Integrating Gaze and Motion for Enhanced 3D Pose Estimation},
+  doi = {10.1109/VRW66409.2025.00025}
+}
